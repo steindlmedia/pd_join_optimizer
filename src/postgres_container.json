@@ -1,0 +1,7 @@
+{
+    "POSTGRES_USER": "postgres",
+    "POSTGRES_PASSWORD": "mysecret",
+    "POSTGRES_DB": "postgres",
+    "POSTGRES_HOST": "localhost",
+    "POSTGRES_PORT": "5442"
+}

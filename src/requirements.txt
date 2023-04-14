@@ -1,0 +1,7 @@
+docker>=6.0.1
+scalene>=1.5.20
+SQLAlchemy>=2.0.8
+pytest>=7.2.2
+psycopg2-binary>=2.9.5
+tqdm>=4.65.0
+rdflib>=6.3.2

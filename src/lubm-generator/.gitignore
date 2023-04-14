@@ -1,0 +1,19 @@
+# Maven Artifacts
+dependency-reduced-pom.xml
+
+# Eclipse Artifacts
+.project
+.classpath
+.settings/
+
+# Generator Artifacts
+log.txt
+errors.txt
+Universities.*
+Universities-*
+*.log
+
+target/classes
+target/maven-archiver
+target/maven-status
+target/original-lubm-uba.jar
